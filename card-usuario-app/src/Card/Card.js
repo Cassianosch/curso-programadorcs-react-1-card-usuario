@@ -10,9 +10,10 @@ const Card = () => {
           <img
             src="https://avatars.githubusercontent.com/u/28737079?v=4"
             alt="Imagem programador.cs"
+            className="img__usuario"
           />
-          <h2>Cassiano S</h2>
-          <p>Desenvolvedor Front-end</p>
+          <h2 className="nome">Cassiano S</h2>
+          <p className="tipo">Desenvolvedor Front-end</p>
           <section className="redes__sociais">
             <a href="https://instagram.com/programador.cs">
               <img
