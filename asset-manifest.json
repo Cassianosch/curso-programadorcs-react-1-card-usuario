@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Cassianosch/curso-programadorcs-react-1-card-usuario/static/css/main.700bf6fb.css",
-    "main.js": "/Cassianosch/curso-programadorcs-react-1-card-usuario/static/js/main.663b9fc7.js",
-    "index.html": "/Cassianosch/curso-programadorcs-react-1-card-usuario/index.html",
-    "main.700bf6fb.css.map": "/Cassianosch/curso-programadorcs-react-1-card-usuario/static/css/main.700bf6fb.css.map",
-    "main.663b9fc7.js.map": "/Cassianosch/curso-programadorcs-react-1-card-usuario/static/js/main.663b9fc7.js.map"
+    "main.css": "/curso-programadorcs-react-1-card-usuario/static/css/main.700bf6fb.css",
+    "main.js": "/curso-programadorcs-react-1-card-usuario/static/js/main.663b9fc7.js",
+    "index.html": "/curso-programadorcs-react-1-card-usuario/index.html",
+    "main.700bf6fb.css.map": "/curso-programadorcs-react-1-card-usuario/static/css/main.700bf6fb.css.map",
+    "main.663b9fc7.js.map": "/curso-programadorcs-react-1-card-usuario/static/js/main.663b9fc7.js.map"
   },
   "entrypoints": [
     "static/css/main.700bf6fb.css",
